@@ -16,7 +16,6 @@ dependencies:
 - pip=8.0.1=py27_0
 - pixman=0.32.6=0
 - pycairo=1.10.0=py27_0
-- pygimli=1.0rc=py27_0
 - pyparsing=2.0.3=py27_0
 - pyqt=4.11.4=py27_1
 - python=2.7.11=0
@@ -33,4 +32,6 @@ dependencies:
 - zlib=1.2.8=0
 - pip:
   - rcs-latexdiff==1.0
+@EXPLICIT
+https://anaconda.org/gimli/pygimli/1.0rc/download/linux-64/pygimli-1.0rc-py27_0.tar.bz2
 
